@@ -102,6 +102,18 @@ main {
     }
 }
 
+.recipe-card{
+    .video{
+        width: 80%;
+    }
+
+    .info{
+        width: 30%;
+
+
+
+    }
+}
 
 /* #endregion Main*/
 
